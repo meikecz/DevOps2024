@@ -12,3 +12,5 @@ Hier sind einige wichtige Punkte:
 
 - Hallo Meike, du bringst viel Positives in unser Team. -
 - Die gegenseitige Unterstützung macht unser Team wirklich stark.
+
+-Deswegen machen wir auch dieses Projekt zusammen
